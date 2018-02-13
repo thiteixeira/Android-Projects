@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Wine Quiz</string>
+    <string name="question_1">Which of the following likely describes a wine made from Gewurztraminer grapes?</string>
+    <string name="answer_1_1">Green peppers, asparagus</string>
+    <string name="answer_1_2">Rose water, lychee</string>
+    <string name="answer_1_3">Astringent, cherry, plum</string>
+    <string name="answer_1_4">Burnt match, butterscotch</string>
+    <string name="question_2">Napa Valley is best known for its:</string>
+    <string name="answer_2_1">Cabernet Sauvignon</string>
+    <string name="answer_2_2">Gamay</string>
+    <string name="answer_2_3">Pinot Noir</string>
+    <string name="answer_2_4">Chardonnay</string>
+    <string name="question_3">What is enology?</string>
+    <string name="answer_3_1">The chemical make-up of port</string>
+    <string name="answer_3_2">The study of wine</string>
+    <string name="answer_3_3">The love of wine</string>
+    <string name="answer_3_4">The study of drunkenness</string>
+    <string name="question_4">Many wine experts suggest pairing which of these wines with a spicy Chinese or Thai dinner?</string>
+    <string name="answer_4_1">Chardonnay</string>
+    <string name="answer_4_2">Pinot Noir</string>
+    <string name="answer_4_3">Gewurztraminer</string>
+    <string name="answer_4_4">Gamay</string>
+    <string name="question_5">Which of these wine producing regions are located in France?</string>
+    <string name="answer_5_1">Champagne</string>
+    <string name="answer_5_2">Bordeaux</string>
+    <string name="answer_5_3">La Rioja</string>
+    <string name="answer_5_4">Burgundy</string>
+    <string name="question_6">What is the most consumed type of White Wine in the US?</string>
+    <string name="editTextHint">E.g., Chardonnay or Riesling or Sauvignon Blanc!</string>
+    <string name="highScore">Congratulations! Your score is &#160;</string>
+    <string name="goodScore">Great effort! Your score is &#160;</string>
+    <string name="averageScore">Good. Your score is &#160;</string>
+    <string name="poorScore">You can do better. Your score is &#160;</string>
+    <string name="badScore">Try again. Your score is &#160;</string>
+    <string name="grade">Grade</string>
+    <string name="submit">Submit</string>
+</resources>

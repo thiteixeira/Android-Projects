@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="touchdown">Touchdown</string>
+    <string name="extra_point">Extra Point</string>
+    <string name="field_goal">Field Goal</string>
+    <string name="safety">Safety</string>
+    <string name="reset">Reset</string>
+</resources>
